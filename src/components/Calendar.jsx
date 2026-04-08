@@ -1,18 +1,18 @@
 import React, { useState, useEffect, useRef } from "react";
 
 const MONTH_IMAGES = [
-  "https://www.designyourway.net/drb/wp-content/uploads/2018/05/winter-wallpaper-65.jpg",
-  "https://pngmagic.com/webp_images/vintage-rose-flower-background-for-graphic-design_ikr.webp",
-  "https://static.vecteezy.com/system/resources/thumbnails/057/707/938/small/serene-view-of-lush-garden-through-large-windows-showcasing-vibrant-greenery-and-sunlight-filtering-in-creating-peaceful-atmosphere-photo.JPG",
-   "https://travelogyindia.b-cdn.net/blog/wp-content/uploads/2019/01/blogapril1.jpg",
-  "https://t3.ftcdn.net/jpg/02/68/48/90/360_F_268489083_Q5Vb8WaWyy3D5sYsmsheWq2cojgWDQ3T.jpg",
-  "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200&q=80",
-  "https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=80",
-  "https://thumbs.dreamstime.com/b/rainy-village-street-vintage-buildings-glowing-lanterns-creates-atmospheric-scene-wet-cobblestone-reflects-410551701.jpg",
-  "https://media.istockphoto.com/id/1051430568/photo/i-love-autumn-close-up-shot-of-hand-holding-yellow-leaf.jpg?s=612x612&w=0&k=20&c=HYgoX-yDVb6c5GGgWLlAbe57ZGplsKiNPJtNG6_FmBQ=",
-  "https://d3hne3c382ip58.cloudfront.net/files/uploads/bookmundi/resized/cmsfeatured/october-in-india-1642409547-785X440.jpg",
-  "https://static.vecteezy.com/system/resources/thumbnails/046/925/187/small/two-birds-perched-on-a-snowy-branch-at-sunset-photo.jpg",
-  "https://wallpapers.com/images/featured/winter-cmgw5mq23dasvttz.jpg",
+  "/images/jan.jpg",
+  "/images/feb.jpg",
+  "/images/march.jpg",
+  "/images/april.jpg",
+  "/images/may.jpg",
+  "/images/june.jpg",
+  "/images/july.jpg",
+  "/images/aug.jpg",
+  "/images/sep.jpg",
+  "/images/oct.jpg",
+  "/images/nov.jpg",
+  "/images/dec.jpg",
 ];
 
 const MONTH_NAMES = [
