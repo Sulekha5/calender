@@ -76,7 +76,7 @@ Deployed using **Vercel**
 
 ## 🙌 Author
 
-👩‍💻 Developed by **Sulekha**
+👩‍💻 Developed by **Alka Dhaked**
 
 ---
 
