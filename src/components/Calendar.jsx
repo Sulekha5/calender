@@ -70,7 +70,7 @@ export default function Calendar() {
     async function fetchHolidays() {
       try {
         const res = await fetch(
-          `https://calendarific.com/api/v2/holidays?api_key=6WwHiD1k4aDUl46Xwg3LZLCHKi7QllNi&country=IN&year=${year}`
+          ``
         );
         const data = await res.json();
         const formatted = {};
